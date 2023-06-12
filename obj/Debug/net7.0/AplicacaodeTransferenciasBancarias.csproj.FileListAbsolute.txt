@@ -1,0 +1,15 @@
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.csproj.AssemblyReference.cache
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.AssemblyInfoInputs.cache
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.AssemblyInfo.cs
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.csproj.CoreCompileInputs.cache
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\bin\Debug\net7.0\AplicacaodeTransferenciasBancarias.exe
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\bin\Debug\net7.0\AplicacaodeTransferenciasBancarias.deps.json
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\bin\Debug\net7.0\AplicacaodeTransferenciasBancarias.runtimeconfig.json
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\bin\Debug\net7.0\AplicacaodeTransferenciasBancarias.dll
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\bin\Debug\net7.0\AplicacaodeTransferenciasBancarias.pdb
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.dll
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\refint\AplicacaodeTransferenciasBancarias.dll
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.pdb
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\AplicacaodeTransferenciasBancarias.genruntimeconfig.cache
+C:\Users\DESIGN 1\Desktop\workspace\AplicacaodeTransferenciasBancarias\obj\Debug\net7.0\ref\AplicacaodeTransferenciasBancarias.dll
